@@ -2,6 +2,12 @@
 
 ## Changes to kdb+taq
 
+### 2022.09.09
+
+Adding Text to README file 
+Adding comments to q scripts
+Adding text to text.txt
+
 ### 2022.01.06 (`Bid_Price` type fix in tq.q)
 changing `Bid_Price` from real to float to avoid `Bid_Price`, `Offer_Price` type inconsistency
 
